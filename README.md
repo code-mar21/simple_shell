@@ -1,6 +1,5 @@
-<h1 align="center"> SIMPLE SHELL </h1>
+<h1 align="center"> SIMPLE SHELL BY MARU </h1>
 
-This is a simple UNIX command interpreter based on bash and Sh.
 
 ## OVERVIEW
 
