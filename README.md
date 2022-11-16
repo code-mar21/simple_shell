@@ -218,5 +218,4 @@ ALX
 
 ## Authors & Copyrights
 
-* Ifeoluwa Ibitowa
-* Abdulmutalib Abdulsalam
+* Maru sisay
